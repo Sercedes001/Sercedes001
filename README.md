@@ -1,97 +1,31 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Bonjour le monde :D</h1>
 
-### <div align="center">TR / US </div>  
-  
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.gg/h7xQqKn529">Discord</a> |
+  <a href="https://github.com/Sercedes001">Github</a>
+  <br><br>
+  <img src="https://cdn.discordapp.com/attachments/1062070879418318929/1062366246429007902/anime-dance.gif">
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-2/1057677671062048890.png">
+</p>
 
-- 🔭 I'm New to Developer business  
-  
+#
+```diff
+👤 >> 14 years old, french developper.
+🐺 >> Learn C, C++
+```
+#
+<h1 align="center">LANGUAGE</h1>
 
-- 🌱 I’m currently learning C and C++  
-  
+<p align="center"> 
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://www.secret-source.eu/wp-content/uploads/2017/11/C-sharp-logo.jpg"></code>&nbsp;
+</p>
 
-- ❓If you want to ask any question, you can come to our [Discord.](https://discord.gg/h7xQqKn529)
-  
-  
+<h1 align="center">LEARN</h1>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-### LANGUAGE  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
-
-
-
-### LEARN  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-
-
-### DİSCORD = GİTHUB  
-<div align="center">
-<a href="https://github.com/https://discord.gg/h7xQqKn529" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sercedes001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u27pughy4mqsoo024wqrj0cgg&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sercedes001&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center"> 
+  <code><img height="25" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>&nbsp; |
+  <code><img height="25" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"></code>&nbsp;
+</p>
