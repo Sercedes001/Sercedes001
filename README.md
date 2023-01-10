@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour le monde :D</h1>
+<h1 align="center">MERHABA DÜNYA :D</h1>
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
